@@ -6,11 +6,11 @@ This project is a simple Body Mass Index (BMI) calculator built using Flutter. T
 ## Screenshots
 
 <p float="left">
-  <img src="Screenshots/screenshot1.jpg" alt="Travelya" width="300" />
-  <img src="Screenshots/screenshot2.jpg" alt="Travelya" width="300" />
-  <img src="Screenshots/screenshot3.jpg" alt="Travelya" width="300" />
-  <img src="Screenshots/screenshot4.jpg" alt="Travelya" width="300" />
-  <img src="Screenshots/screenshot5.jpg" alt="Travelya" width="300" />
+  <img src="Screenshots/screenshot1.jpg" alt="Travelya" width="250" />
+  <img src="Screenshots/screenshot2.jpg" alt="Travelya" width="250" />
+  <img src="Screenshots/screenshot3.jpg" alt="Travelya" width="250" />
+  <img src="Screenshots/screenshot4.jpg" alt="Travelya" width="250" />
+  <img src="Screenshots/screenshot5.jpg" alt="Travelya" width="250" />
 </p>
 
 ## Features
